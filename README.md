@@ -5,7 +5,7 @@
 **Group Information:**
 - **Group Members**: 
   - Sahrul Ridho Firdaus - 1103223009
-  - [Member 2 Name - NIM]
+  - Rayhan Diff - 1103220039
 
 **Course Information:**
 - **Course**: Deep Learning
