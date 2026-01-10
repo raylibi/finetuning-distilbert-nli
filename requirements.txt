@@ -1,0 +1,29 @@
+# Core Dependencies for DistilBERT MNLI Fine-tuning
+
+# Transformers - HuggingFace library for pre-trained models
+transformers>=4.30.0
+
+# Datasets - HuggingFace library for loading and processing datasets
+datasets>=2.12.0
+
+# Evaluate - Library for model evaluation metrics
+evaluate>=0.4.0
+
+# Accelerate - Library for distributed training and mixed precision
+accelerate>=0.20.0
+
+# Scikit-learn - Machine learning utilities
+scikit-learn>=1.2.0
+
+# PyTorch - Deep learning framework
+torch>=2.0.0
+
+# NumPy - Numerical computing
+numpy>=1.24.0
+
+# Additional recommended packages
+jupyter>=1.0.0
+notebook>=6.5.0
+ipywidgets>=8.0.0
+matplotlib>=3.7.0
+pandas>=2.0.0
